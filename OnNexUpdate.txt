@@ -1,0 +1,4 @@
+Hide all output of git commands (> /dev/null)
+Create Function to oganise code 
+Addping colors to ouptup messages
+Adding .gitignore
